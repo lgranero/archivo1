@@ -1,1 +1,1 @@
-console.log("hola, ya clonaste un repo")
+console.log("hola, ya actualizaste un archivo")
